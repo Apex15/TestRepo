@@ -31,12 +31,13 @@
             <li><a runat="server" href="~/Contact">Contact</a></li>
         </ul>
     </aside>
-    <br />
-     1) apex changes 08/10
-     2) apex changed
+   <br />
+    1) apex changes 08/10
+    2) apex changed
     3) apex chages in Dev
-    <br />
-     1) apex changes 08/10
-    2)dgdgd
-    3)Test
+   <br />
+    1) apex changes 08/10
+    2) dgdgd
+    3) Test
+    4) Test in TE
 </asp:Content>
